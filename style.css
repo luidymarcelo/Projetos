@@ -83,7 +83,7 @@ background-color: pink;
 }
 
 /* CSS media query dentro de um stylesheet */
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     .apresentacao {
       display: none;
     }
@@ -91,42 +91,42 @@ background-color: pink;
   
 
 /* CSS media query dentro de um stylesheet */
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     .apresentacao__conteudo {
       display: none;
     }
   }
 
 /* CSS media query dentro de um stylesheet */
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     .conjunto__imagens {
       display: none;
     }
   }
 
 /* CSS media query dentro de um stylesheet */
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     .apresentacao {
       display: none;
     }
   }
 
 /* CSS media query dentro de um stylesheet */
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     .paragrafo__h2 {
       display: none;
     }
   }
 
 /* CSS media query dentro de um stylesheet */
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     .titulo-imagem-lado {
       display: none;
     }
   }
 
 /* CSS media query dentro de um stylesheet */
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     .titulo__nossasfotos {
       display: none;
     }
