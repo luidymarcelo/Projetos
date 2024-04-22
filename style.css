@@ -82,12 +82,53 @@ background-color: pink;
   width: 300px;
 }
 
-@media screen and (max-width: 685px) {
-    .apresentacao{
-        display: block;
-}
+/* CSS media query dentro de um stylesheet */
+@media (max-width: 600px) {
+    .apresentacao {
+      display: none;
+    }
+  }
+  
 
-@media screen and (max-width: 685px) {
-    .titulo__nossasfotos{
-        display: block;
-}
+/* CSS media query dentro de um stylesheet */
+@media (max-width: 600px) {
+    .apresentacao__conteudo {
+      display: none;
+    }
+  }
+
+/* CSS media query dentro de um stylesheet */
+@media (max-width: 600px) {
+    .conjunto__imagens {
+      display: none;
+    }
+  }
+
+/* CSS media query dentro de um stylesheet */
+@media (max-width: 600px) {
+    .apresentacao {
+      display: none;
+    }
+  }
+
+/* CSS media query dentro de um stylesheet */
+@media (max-width: 600px) {
+    .paragrafo__h2 {
+      display: none;
+    }
+  }
+
+/* CSS media query dentro de um stylesheet */
+@media (max-width: 600px) {
+    .titulo-imagem-lado {
+      display: none;
+    }
+  }
+
+/* CSS media query dentro de um stylesheet */
+@media (max-width: 600px) {
+    .titulo__nossasfotos {
+      display: none;
+    }
+  }
+  
