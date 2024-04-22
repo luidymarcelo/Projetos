@@ -81,3 +81,13 @@ background-color: pink;
   object-fit: fill;
   width: 300px;
 }
+
+@media screen and (max-width: 685px) {
+    .apresentacao{
+        display: block;
+}
+
+@media screen and (max-width: 685px) {
+    .titulo__nossasfotos{
+        display: block;
+}
