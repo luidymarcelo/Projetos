@@ -37,21 +37,19 @@ background-color: pink;
 }
 
 .titulo__h2 {
-    display: block;
-    gap: 35px;
+    display: flex;
+    margin: 5%;
     justify-content: center;
-    style="max-width:100%;height:auto;"
-    text-align: center;
-    margin: auto;
+    font-family: 'Krona One', sans-serif;
+    font-size: 25px;
+    font-style: 10vw;
 }
 
 .paragrafo__h2{ 
-    display: block;
-    gap: 35px;
-    justify-content: center;
-    style="max-width:100%;height:auto;"
-    text-align: center;
-    margin: auto;
+    display: flex;
+    gap: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
 }
 
 .titulo__nossasfotos{
