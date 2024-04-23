@@ -78,17 +78,10 @@ background-color: pink;
     justify-content: center;
     margin: 5%;
     font-family: 'Krona One', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
 }
 
-.titulo-imagem-lado img{
-    background-color: #ddd;
-  border-radius: 1000%;
-  height: 190px;
-  object-fit: fill;
-  width: 300px;
-  style="max-width:100%;height:auto;"
-}
+
 
 @media(max-width: 800px){
     .apresentacao {
@@ -113,4 +106,12 @@ background-color: pink;
     text-align: center;
     margin: auto;
 
+}
+
+.titulo-imagem-lado2{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+    font-family: 'Krona One', sans-serif;
+    font-size: 14px;
 }
