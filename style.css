@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
-
 *{
     margin: 0;
     padding: 0;
@@ -55,13 +54,12 @@ background-color: pink;
 
 .titulo__nossasfotos{
     display: flex;
-    margin: 5%;
     justify-content: center;
+    margin: 5%;
     font-family: 'Krona One', sans-serif;
     font-size: 25px;
-    style="max-width:100%;height:auto;"
+    text-align: center;
 }
-
     
 .conjunto__imagens {
     display: block;
@@ -81,8 +79,6 @@ background-color: pink;
     font-size: 18px;
     text-align: center;
 }
-
-
 
 @media(max-width: 800px){
     .apresentacao {
@@ -106,8 +102,6 @@ background-color: pink;
     }
 
 }
-
-
 
 .titulo-imagem-lado2{
     display: flex;
