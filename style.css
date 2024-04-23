@@ -76,9 +76,10 @@ background-color: pink;
 .titulo-imagem-lado h1{
     display: flex;
     justify-content: center;
-    margin: 5%;
+    margin: 7%;
     font-family: 'Krona One', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
+    text-align: center;
 }
 
 
@@ -96,22 +97,28 @@ background-color: pink;
         flex-direction: column;
         width: 100%;
     }
+    .audio{
+        display: block;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        margin: auto;
+    }
 
 }
 
-.audio{
-    display: block;
-    align-items: center;
-    flex-direction: column;
-    text-align: center;
-    margin: auto;
 
-}
 
 .titulo-imagem-lado2{
     display: flex;
     justify-content: center;
     margin: 5%;
     font-family: 'Krona One', sans-serif;
-    font-size: 14px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.paragrafo__h2{
+    text-align: justify;
+    justify-content: center;
 }
