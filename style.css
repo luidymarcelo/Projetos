@@ -64,10 +64,13 @@ background-color: pink;
 
     
 .conjunto__imagens {
-    display: flex;
+    display: block;
     gap: 35px;
     justify-content: center;
     style="max-width:100%;height:auto;"
+    text-align: center;
+    margin: auto;
+
 }
 
 .titulo-imagem-lado h1{
@@ -101,11 +104,4 @@ background-color: pink;
         width: 100%;
     }
 
-    .titulo__nossasfotos{
-        display: inline-flex;
-        flex-direction: column;
-        width: 100%;
-    }
-    
 }
-    
