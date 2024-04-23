@@ -97,12 +97,12 @@ background-color: pink;
         flex-direction: column;
         width: 100%;
     }
-    .audio{
+    .audios_amor{
         display: block;
         align-items: center;
         flex-direction: column;
-        text-align: center;
         margin: auto;
+        justify-content: end;
     }
 
 }
@@ -120,5 +120,13 @@ background-color: pink;
 
 .paragrafo__h2{
     text-align: justify;
+    justify-content: center;
+}
+
+.audios_amor{
+    display: block;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
     justify-content: center;
 }
