@@ -38,11 +38,11 @@ background-color: pink;
 
 .titulo__h2 {
     display: flex;
-    margin: 5%;
     justify-content: center;
+    margin: 5%;
     font-family: 'Krona One', sans-serif;
     font-size: 25px;
-    font-style: 10vw;
+    text-align: center;
 }
 
 .paragrafo__h2{ 
